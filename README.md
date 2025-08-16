@@ -32,7 +32,22 @@ La idea es simular cómo funcionan las operaciones aritméticas desde lo más el
 Primero abre la terminal en la carpeta donde esté tu archivo operacionesPeanos.hs y escribe:
 ghc -o operaciones operacionesPeanos.hs
 
-### 2. Ejecutar el programa:
+### 1.1. Ejecutar el programa:
 - En Windows: .\operaciones.exe
 - En Linux/Mac: ./operaciones
 
+### 2. Usando GHCi (modo interactivo)
+- Abre la terminal en la carpeta donde tengas el archivo.
+- Ejecuta: ghci operacionesPeanos.hs
+
+
+## 🧪 Ejemplos de uso en GHCi
+
+Al cargar el archivo en **GHCi** (`ghci operacionesPeanos.hs`), podemos probar las funciones de la siguiente forma:
+
+```haskell
+Prelude> suma 5 3
+Prelude> resta 7 2
+Prelude> multiplicacion 4 3
+Prelude> division 10 2
+Prelude> division 9 2
