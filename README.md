@@ -19,13 +19,13 @@ La idea es simular cómo funcionan las operaciones aritméticas desde lo más el
 3. Ejecuta la celda.
 
 ### 2. Ejemplo de salida
-```text
+
 Suma: 8
 Resta: 2
 Multiplicación: 15
 División: 5
 División: 4
-
+-
 
 ##  Ejecución en Haskell
 ### 1. Compilar y ejecutar con GHC:
