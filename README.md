@@ -33,6 +33,6 @@ Primero abre la terminal en la carpeta donde esté tu archivo operacionesPeanos.
 ghc -o operaciones operacionesPeanos.hs
 
 ### 2. Ejecutar el programa:
-En Windows: .\operaciones.exe
-En Linux/Mac: ./operaciones
+- En Windows: .\operaciones.exe
+- En Linux/Mac: ./operaciones
 
