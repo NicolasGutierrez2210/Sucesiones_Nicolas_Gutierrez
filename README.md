@@ -1,13 +1,13 @@
 # Operaciones Basicas en Haskell
 
-Este proyecto implementa operaciones matemáticas básicas (**suma, resta, multiplicación y división**) usando únicamente las funciones de **sucesor (n+1)** y **predecesor (n-1)**.  
-La idea es simular cómo funcionan las operaciones aritméticas desde lo más elemental, siguiendo la lógica de los números de Peano.  
-También se incluye una función adicional para sumar números reales.
+Este proyecto implementa operaciones matemáticas básicas (**suma, resta, multiplicación y division**) usando únicamente las funciones de **sucesor (n+1)** y **predecesor (n-1)**.  
+La idea es simular como funcionan las operaciones aritméticas desde lo más elemental, siguiendo la logica de los numeros de Peano.  
+Tambien se incluye una función adicional para sumar numeros reales.
 
 ---
 
 ##  Estructura del Proyecto
-- `sucesioneshas.hs` → Implementación en **Haskell**
+- `sucesioneshas.hs` → Implementacion en **Haskell**
 
 ---
 
